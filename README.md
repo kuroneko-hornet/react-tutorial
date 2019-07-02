@@ -1,7 +1,8 @@
-React公式チュートリアル用に作ったレポジトリです．
+**React公式チュートリアル用に作ったレポジトリです．  **
 
-内容は以下参照
-[Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)
+**内容は以下参照  **
+**[Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html)  **
+
 
 ---
 
